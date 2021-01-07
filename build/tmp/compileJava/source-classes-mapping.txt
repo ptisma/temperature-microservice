@@ -1,0 +1,8 @@
+com/rasus/lab/temperaturemicroservice/model/Measurement.java
+ com.rasus.lab.temperaturemicroservice.model.Measurement
+com/rasus/lab/temperaturemicroservice/repo/MeasurementRepository.java
+ com.rasus.lab.temperaturemicroservice.repo.MeasurementRepository
+com/rasus/lab/temperaturemicroservice/TemperatureMicroserviceApplication.java
+ com.rasus.lab.temperaturemicroservice.TemperatureMicroserviceApplication
+com/rasus/lab/temperaturemicroservice/rest/MeasurementController.java
+ com.rasus.lab.temperaturemicroservice.rest.MeasurementController
